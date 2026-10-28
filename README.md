@@ -82,7 +82,7 @@ All available sounds in `/System/Library/Sounds/`:
 ## Installation
 
 ```bash
-git clone https://github.com/yike-gunshi/claude-code-notifier.git
+git clone https://github.com/antonailog/claude-code-notifier.git
 cd claude-code-notifier
 bash install.sh
 ```
@@ -254,7 +254,7 @@ Claude Code 是一个基于终端的 AI 编程助手。当你给它分配任务�
 ## 安装
 
 ```bash
-git clone https://github.com/yike-gunshi/claude-code-notifier.git
+git clone https://github.com/antonailog/claude-code-notifier.git
 cd claude-code-notifier
 bash install.sh
 ```
